@@ -1,0 +1,6 @@
+{
+  "name": "SMARTCALC — Interactive Calculator & Unit Converter",
+  "description": "Modern glass-inspired desktop calculator and comprehensive unit converter with calculation history and custom preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "accent_color": "#7C3AED",
+  "decimal_precision": 4,
+  "use_grouping": true,
+  "sound_enabled": true
+}

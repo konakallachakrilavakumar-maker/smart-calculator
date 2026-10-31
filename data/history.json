@@ -1,0 +1,25 @@
+[
+  {
+    "id": "c1a01",
+    "type": "calculation",
+    "expression": "125 * 8 + 45",
+    "result": "1,045",
+    "timestamp": "2026-10-31 10:15:20"
+  },
+  {
+    "id": "c1a02",
+    "type": "conversion",
+    "category": "Length",
+    "expression": "50 Miles → Kilometers",
+    "result": "80.4672 Kilometers",
+    "formula": "1 Miles = 1.60934 Kilometers",
+    "timestamp": "2026-10-31 10:30:45"
+  },
+  {
+    "id": "c1a03",
+    "type": "calculation",
+    "expression": "sqrt(144) + 2^4",
+    "result": "28",
+    "timestamp": "2026-10-31 11:02:10"
+  }
+]
